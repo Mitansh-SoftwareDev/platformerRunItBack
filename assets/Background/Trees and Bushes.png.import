@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6f5sehagi3q0"
-path="res://.godot/imported/Trees and Bushes.png-582872cc2847d35b79d0df3cbb80e07b.ctex"
+path="res://.godot/imported/Trees and Bushes.png-bde41e117c530d055e856933245f6942.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Background/Trees and Bushes.png"
-dest_files=["res://.godot/imported/Trees and Bushes.png-582872cc2847d35b79d0df3cbb80e07b.ctex"]
+source_file="res://assets/Background/Trees and Bushes.png"
+dest_files=["res://.godot/imported/Trees and Bushes.png-bde41e117c530d055e856933245f6942.ctex"]
 
 [params]
 

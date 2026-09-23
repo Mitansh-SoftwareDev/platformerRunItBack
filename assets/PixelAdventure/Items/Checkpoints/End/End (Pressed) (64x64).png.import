@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8xxyr6tg7kga"
-path="res://.godot/imported/End (Pressed) (64x64).png-1b74a72e129b826cc9438c60c1c41965.ctex"
+path="res://.godot/imported/End (Pressed) (64x64).png-6fec0a4921c3cae242d42b2d566f0cd0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Items/Checkpoints/End/End (Pressed) (64x64).png"
-dest_files=["res://.godot/imported/End (Pressed) (64x64).png-1b74a72e129b826cc9438c60c1c41965.ctex"]
+source_file="res://assets/PixelAdventure/Items/Checkpoints/End/End (Pressed) (64x64).png"
+dest_files=["res://.godot/imported/End (Pressed) (64x64).png-6fec0a4921c3cae242d42b2d566f0cd0.ctex"]
 
 [params]
 

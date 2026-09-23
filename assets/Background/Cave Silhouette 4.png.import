@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bb2sk3ggrrjby"
-path="res://.godot/imported/Cave Silhouette 4.png-4f04cb0ac8d1f1f3d98af638d32857fd.ctex"
+path="res://.godot/imported/Cave Silhouette 4.png-7f3c5991ede6e29289c68701953ff640.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Background/Cave Silhouette 4.png"
-dest_files=["res://.godot/imported/Cave Silhouette 4.png-4f04cb0ac8d1f1f3d98af638d32857fd.ctex"]
+source_file="res://assets/Background/Cave Silhouette 4.png"
+dest_files=["res://.godot/imported/Cave Silhouette 4.png-7f3c5991ede6e29289c68701953ff640.ctex"]
 
 [params]
 

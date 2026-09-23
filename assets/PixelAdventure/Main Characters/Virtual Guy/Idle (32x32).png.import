@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6ybhe0cu8p3b"
-path="res://.godot/imported/Idle (32x32).png-17e4abe0c97567f1c624e0c02ac92a82.ctex"
+path="res://.godot/imported/Idle (32x32).png-ea086b59ac7a5c9de2394a7846819301.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Main Characters/Virtual Guy/Idle (32x32).png"
-dest_files=["res://.godot/imported/Idle (32x32).png-17e4abe0c97567f1c624e0c02ac92a82.ctex"]
+source_file="res://assets/PixelAdventure/Main Characters/Virtual Guy/Idle (32x32).png"
+dest_files=["res://.godot/imported/Idle (32x32).png-ea086b59ac7a5c9de2394a7846819301.ctex"]
 
 [params]
 

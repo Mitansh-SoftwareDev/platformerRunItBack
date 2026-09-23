@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cafopaicjjxx"
-path="res://.godot/imported/Winter Tree silhouette 2.png-f0d220c42d57590729609b6139db662f.ctex"
+path="res://.godot/imported/Winter Tree silhouette 2.png-f8798238d39cada5a485678bc63635db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Background/Winter Tree silhouette 2.png"
-dest_files=["res://.godot/imported/Winter Tree silhouette 2.png-f0d220c42d57590729609b6139db662f.ctex"]
+source_file="res://assets/Background/Winter Tree silhouette 2.png"
+dest_files=["res://.godot/imported/Winter Tree silhouette 2.png-f8798238d39cada5a485678bc63635db.ctex"]
 
 [params]
 
