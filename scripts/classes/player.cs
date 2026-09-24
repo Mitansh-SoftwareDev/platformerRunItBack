@@ -22,16 +22,20 @@ public partial class player: CharacterBody2D
         {
             if (velocity.Y > 0)
             {
-                GetNode<AnimationPlayer>("AnimationPlayer").Play("fall");
+                GetNode<AnimatedSprite2D>("AnimatedSprite2D").Play("fall");
             }
             else if (velocity.Y > 0)
             {
-                GetNode<AnimationPlayer>("AnimationPlayer").Play("jump");
+                GetNode<AnimatedSprite2D>("AnimatedSprite2D").Play("jump");
             }
         }
         else if (Input.IsActionJustPressed("left"))
         {
-            GetNode<AnimationPlayer>("AnimationPlayer").Play("left");
+            GetNode<AnimatedSprite2D>("AnimatedSprite2D").FlipH = true;
+        }
+        else if (Input.IsActionJustPressed("right"))
+        {
+            GetNode<AnimatedSprite2D>("AnimatedSprite2D").FlipH = false;
         }
         
 
