@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nsg7vvv2yfh7"
-path="res://.godot/imported/Left Hit (54x52).png-a90e7a84602ac2aeecfc5da721005647.ctex"
+path="res://.godot/imported/Left Hit (54x52).png-bc9f2e910802ef89dff6484495456599.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Traps/Spike Head/Left Hit (54x52).png"
-dest_files=["res://.godot/imported/Left Hit (54x52).png-a90e7a84602ac2aeecfc5da721005647.ctex"]
+source_file="res://assets/PixelAdventure/Traps/Spike Head/Left Hit (54x52).png"
+dest_files=["res://.godot/imported/Left Hit (54x52).png-bc9f2e910802ef89dff6484495456599.ctex"]
 
 [params]
 

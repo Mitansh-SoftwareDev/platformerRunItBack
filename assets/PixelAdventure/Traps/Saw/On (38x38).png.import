@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csn4hkfps82ef"
-path="res://.godot/imported/On (38x38).png-18da46e3aa3e637a84a6da15154b786d.ctex"
+path="res://.godot/imported/On (38x38).png-22a142220b504b0371f4ecc174d1f599.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Traps/Saw/On (38x38).png"
-dest_files=["res://.godot/imported/On (38x38).png-18da46e3aa3e637a84a6da15154b786d.ctex"]
+source_file="res://assets/PixelAdventure/Traps/Saw/On (38x38).png"
+dest_files=["res://.godot/imported/On (38x38).png-22a142220b504b0371f4ecc174d1f599.ctex"]
 
 [params]
 

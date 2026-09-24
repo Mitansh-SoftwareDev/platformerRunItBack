@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmv1x241umbit"
-path="res://.godot/imported/Chain.png-ffada45746b66c9c891ae459dfae21f0.ctex"
+path="res://.godot/imported/Chain.png-950fd7f4dc7283f18b405a993fb3ea85.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Traps/Platforms/Chain.png"
-dest_files=["res://.godot/imported/Chain.png-ffada45746b66c9c891ae459dfae21f0.ctex"]
+source_file="res://assets/PixelAdventure/Traps/Platforms/Chain.png"
+dest_files=["res://.godot/imported/Chain.png-950fd7f4dc7283f18b405a993fb3ea85.ctex"]
 
 [params]
 

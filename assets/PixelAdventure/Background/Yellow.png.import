@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://miflmnc0pp1y"
-path="res://.godot/imported/Yellow.png-b84eaf2b1599fe73b86af45a734e300c.ctex"
+path="res://.godot/imported/Yellow.png-e1426b4fd872244d3f125f2b3fc89a47.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Background/Yellow.png"
-dest_files=["res://.godot/imported/Yellow.png-b84eaf2b1599fe73b86af45a734e300c.ctex"]
+source_file="res://assets/PixelAdventure/Background/Yellow.png"
+dest_files=["res://.godot/imported/Yellow.png-e1426b4fd872244d3f125f2b3fc89a47.ctex"]
 
 [params]
 

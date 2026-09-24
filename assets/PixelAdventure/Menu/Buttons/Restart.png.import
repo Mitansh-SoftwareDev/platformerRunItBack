@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxs33s7w6yixg"
-path="res://.godot/imported/Restart.png-900be967bbe369888e1f4113a897f7f9.ctex"
+path="res://.godot/imported/Restart.png-e65a2f47b18867954633db4a4f6d4350.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Menu/Buttons/Restart.png"
-dest_files=["res://.godot/imported/Restart.png-900be967bbe369888e1f4113a897f7f9.ctex"]
+source_file="res://assets/PixelAdventure/Menu/Buttons/Restart.png"
+dest_files=["res://.godot/imported/Restart.png-e65a2f47b18867954633db4a4f6d4350.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc7a6togdm0es"
-path="res://.godot/imported/Pink.png-a4b832bfeca99276ea01cbffe05a30eb.ctex"
+path="res://.godot/imported/Pink.png-45ea8d8d39f46d3c74064542dbea1f0f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Background/Pink.png"
-dest_files=["res://.godot/imported/Pink.png-a4b832bfeca99276ea01cbffe05a30eb.ctex"]
+source_file="res://assets/PixelAdventure/Background/Pink.png"
+dest_files=["res://.godot/imported/Pink.png-45ea8d8d39f46d3c74064542dbea1f0f.ctex"]
 
 [params]
 

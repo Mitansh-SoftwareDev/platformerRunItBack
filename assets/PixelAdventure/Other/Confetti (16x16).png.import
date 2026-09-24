@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blufghhunj3vu"
-path="res://.godot/imported/Confetti (16x16).png-f236ca12d8fbcbb004778f5ebb7319f2.ctex"
+path="res://.godot/imported/Confetti (16x16).png-32955c7f7b2d8b42b313f1d974d85679.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Other/Confetti (16x16).png"
-dest_files=["res://.godot/imported/Confetti (16x16).png-f236ca12d8fbcbb004778f5ebb7319f2.ctex"]
+source_file="res://assets/PixelAdventure/Other/Confetti (16x16).png"
+dest_files=["res://.godot/imported/Confetti (16x16).png-32955c7f7b2d8b42b313f1d974d85679.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btffno4gf8fqa"
-path="res://.godot/imported/Text (White) (8x10).png-141094d4795a0d54e00bad854db90f9c.ctex"
+path="res://.godot/imported/Text (White) (8x10).png-d91544d396a9170522483fac27614f4c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/PixelAdventure/Menu/Text/Text (White) (8x10).png"
-dest_files=["res://.godot/imported/Text (White) (8x10).png-141094d4795a0d54e00bad854db90f9c.ctex"]
+source_file="res://assets/PixelAdventure/Menu/Text/Text (White) (8x10).png"
+dest_files=["res://.godot/imported/Text (White) (8x10).png-d91544d396a9170522483fac27614f4c.ctex"]
 
 [params]
 
