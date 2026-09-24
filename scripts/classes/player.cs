@@ -18,29 +18,32 @@ public partial class player: CharacterBody2D
         }
         
         // Handle Animations.
-        if (Input.IsActionJustPressed("up") && IsOnFloor())
+        if (Velocity.Y > 0)
         {
-            if (velocity.Y > 0)
-            {
-                GetNode<AnimatedSprite2D>("AnimatedSprite2D").Play("fall");
-            }
-            else if (velocity.Y > 0)
-            {
-                GetNode<AnimatedSprite2D>("AnimatedSprite2D").Play("jump");
-            }
+            GetNode<AnimatedSprite2D>("AnimatedSprite2D").Play("fall");
+        }
+        if (Velocity.Y < 0)
+        {
+        GetNode<AnimatedSprite2D>("AnimatedSprite2D").Play("jump");
         }
         else if (Input.IsActionJustPressed("left"))
         {
             GetNode<AnimatedSprite2D>("AnimatedSprite2D").FlipH = true;
+            GetNode<AnimatedSprite2D>("AnimatedSprite2D").Play("run");
         }
         else if (Input.IsActionJustPressed("right"))
         {
             GetNode<AnimatedSprite2D>("AnimatedSprite2D").FlipH = false;
+            GetNode<AnimatedSprite2D>("AnimatedSprite2D").Play("run");
+        }
+        else if (velocity.Y == 0 & velocity.X == 0)
+        {
+            GetNode<AnimatedSprite2D>("AnimatedSprite2D").Play("idle");
         }
         
 
         // Handle Jump.
-        if (Input.IsActionJustPressed("ui_accept") && IsOnFloor())
+        if (Input.IsActionJustPressed("up") && IsOnFloor())
         {
             velocity.Y = JumpVelocity;
         }

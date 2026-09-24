@@ -730,4 +730,3 @@ tile_set = SubResource("TileSet_hbghi")
 
 [node name="frog" parent="." unique_id=195539482 instance=ExtResource("5_e3sih")]
 position = Vector2(48, -29)
-collision_layer = 2
